@@ -1,9 +1,0 @@
-{
-    "entries": [
-        {"text": "滚。", "weight": 8, "voice": "verity.distorted", "emotion": "DISTORTED"},
-        {"text": "你无处可逃。", "weight": 7, "voice": "", "emotion": "DISTORTED"},
-        {"text": "我恨你。", "weight": 6, "voice": "verity.hostile", "emotion": "DISTORTED"},
-        {"text": "{player}，都是你的错。", "weight": 5, "voice": "", "emotion": "STRAINED"},
-        {"text": "别跑了。", "weight": 4, "voice": "verity.hostile", "emotion": "DISTORTED"}
-    ]
-}

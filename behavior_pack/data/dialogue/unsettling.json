@@ -1,9 +1,0 @@
-{
-    "entries": [
-        {"text": "你...听见了吗？", "weight": 8, "voice": "", "emotion": "UNEASY"},
-        {"text": "我就在你身后。", "weight": 7, "voice": "verity.whisper", "emotion": "STRAINED"},
-        {"text": "别回头。", "weight": 6, "voice": "", "emotion": "CALM"},
-        {"text": "{player}，你还好吗？", "weight": 5, "voice": "", "emotion": "UNEASY"},
-        {"text": "它快来了。", "weight": 4, "voice": "verity.distorted", "emotion": "DISTORTED"}
-    ]
-}

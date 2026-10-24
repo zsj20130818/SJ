@@ -1,9 +1,0 @@
-{
-    "entries": [
-        {"text": "你好，我是 Verity。", "weight": 10, "voice": "verity.greeting", "emotion": "CHEERFUL"},
-        {"text": "我能感觉到你。", "weight": 8, "voice": "", "emotion": "CALM"},
-        {"text": "你相信真相吗？", "weight": 6, "voice": "", "emotion": "UNEASY"},
-        {"text": "{player}，我一直在看着你。", "weight": 5, "voice": "verity.whisper", "emotion": "STRAINED"},
-        {"text": "没有回头路了。", "weight": 4, "voice": "verity.distorted", "emotion": "DISTORTED"}
-    ]
-}

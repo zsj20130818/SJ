@@ -1,9 +1,0 @@
-{
-    "entries": [
-        {"text": "你看到那些了吗？", "weight": 7, "voice": "", "emotion": "STRAINED"},
-        {"text": "我不是真的...对吧？", "weight": 6, "voice": "verity.whisper", "emotion": "STRAINED"},
-        {"text": "墙壁在呼吸。", "weight": 5, "voice": "", "emotion": "DISTORTED"},
-        {"text": "{player}，你还分得清吗？", "weight": 5, "voice": "", "emotion": "STRAINED"},
-        {"text": "别相信你看到的。", "weight": 4, "voice": "verity.distorted", "emotion": "DISTORTED"}
-    ]
-}

@@ -1,9 +1,0 @@
-{
-    "entries": [
-        {"text": "你成功了...但代价是什么？", "weight": 10, "voice": "verity.boss_spawn", "emotion": "DISTORTED"},
-        {"text": "我就是你。", "weight": 8, "voice": "", "emotion": "DISTORTED"},
-        {"text": "结束了。", "weight": 6, "voice": "verity.boss_music", "emotion": "DISTORTED"},
-        {"text": "{player}，真相一直在你体内。", "weight": 5, "voice": "", "emotion": "STRAINED"},
-        {"text": "再见。", "weight": 4, "voice": "verity.final", "emotion": "DISTORTED"}
-    ]
-}
