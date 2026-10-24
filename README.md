@@ -1,51 +1,13 @@
-# CorruptionMod - Netease Minecraft Bedrock Edition
+# 网易 ModSDK - 制裁盒子附加包
 
-A psychological horror mod ported from Java Edition to Netease Bedrock Edition.
+这是一个基于网易我的世界 ModSDK 制作的高仿“制裁盒子”模组，面向个人存档，非网络服。
 
-## Features
-- Corruption system
-- Verity companion summoning
-- Dialogue system
-- Jump scare events
+## 玩法说明
+1. 放置“魔法土块”，会变成制裁盒子并掉落岩浆桶与 32K 制裁之刃。
+2. 使用岩浆桶即可触发全服制裁（闪电、清空方块、凋零等）。
 
-## Known Issues
-
-### 🔴 Critical
-- **`ImportError: No module named progression.corruption_data`**
-  - Location: `server_system.py` line 22
-  - Impact: Server-side init fails entirely, all server events dead
-  - Status: Under investigation
-
-### 🟠 Major
-- **Tick crash loop on world exit**
-  - `client/clientApp.py:761` → `'NoneType' has no attribute 'Tick'`
-  - `client/appmgr/effectMgr.py:67` → `'NoneType' has no attribute 'time'`
-  - Triggered after `ecs_framework clear all`, floods log every frame
-- **UI null-pointer on screen push/pop**
-  - `client/clientApp.py:1403` `OnHandlePushScreen`
-  - `client/clientApp.py:1417` `OnPopScreenAfter`
-  - `vipLogic/utils/foldMenuScreenMgr.py:61`
-
-### 🟡 Minor
-- **`minecraft:despawn` config invalid**
-  - Affected entities: `verity:hallucination`, `verity:boss`, `verity:companion`
-  - Error: `child 'never_despawn' not valid here`
-- Custom spawn egg not showing in creative inventory
-- Entity model failed to load
-
-## Resolved
-- **`ImportError: No module named verity_network`**
-  - Fixed by restructuring scripts into a `VerityScripts/` folder (NetEase ModSDK requires scripts to live under a `*Scripts` directory for proper module registration).
-
-## How to Help
-1. Fork this repository
-2. Create your feature branch
-3. Commit your changes
-4. Open a Pull Request
-
-## License
-CC BY-NC-SA 4.0
-
-## Contact
-- GitHub Issues: Open an issue directly in this repository
-- Email: zsj201308182026@163.com (Project related only)
+## 开源协议
+本项目采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议。
+- **BY**：必须署名原作者。
+- **NC**：不得用于商业用途。
+- **SA**：如果修改了本项目，必须以相同协议分享。
