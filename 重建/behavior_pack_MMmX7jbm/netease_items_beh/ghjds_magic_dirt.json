@@ -1,0 +1,13 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ghjds:magic_dirt",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:max_stack_size": 64,
+      "minecraft:icon": "ghjds:magic_dirt"
+    }
+  }
+}

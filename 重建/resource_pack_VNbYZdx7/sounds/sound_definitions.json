@@ -1,0 +1,50 @@
+{
+  "mob.m_tyrannosaurus_warden_titan.attack": {
+    "category": "hostile",
+    "min_distance": 100.0,
+  "mob.m_zorden.roar": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/m_zorden/roar"
+    ]
+  },
+  "mob.m_zorden.sonic_boom": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/m_zorden/sonic_boom"
+    ]
+  },
+  "mob.m_zorden.power_up": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/m_zorden/power_up"
+    ]
+  },
+  "mob.m_zorden.clicking": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/m_zorden/clicking1",
+      "sounds/mob/m_zorden/clicking2",
+      "sounds/mob/m_zorden/clicking3"
+    ]
+  },
+  "mob.m_zorden.sonic_charge": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/m_zorden/sonic_charge"
+    ]
+  },
+  "mob.m_zorden.heart": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/m_zorden/heart"
+    ]
+  },
+  "mob.m_riot_warden.idle": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/m_riot_warden/idle"
+    ]
+  }
+  }
+}

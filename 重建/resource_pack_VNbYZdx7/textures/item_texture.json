@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "Ghjds",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "ghjds:pack_book": {
+      "textures": "ghjds/assets/pack_book"
+    },
+    "ghjds:magic_dirt": {
+      "textures": "textures/blocks/missing_tile"
+    }
+  }
+}

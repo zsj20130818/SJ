@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "制裁盒子行为包",
+        "name": "Ghjds_BP",
+        "uuid": "7a4b3c2d-1e0f-4a9b-8c7d-6e5f4a3b2c1d",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 18, 0]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "8b5c4d3e-2f1a-4b0c-9d8e-7f6a5b4c3d2e",
+            "version": [1, 0, 0]
+        },
+        {
+            "type": "script",
+            "language": "python",
+            "uuid": "9c6d5e4f-3a2b-4c1d-0e9f-8a7b6c5d4e3f",
+            "entry": "Script_mod.modMain",
+            "version": [1, 0, 0]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+//本文件由Deep Seek翻译
+//Ghjds Warden 生物与刷怪蛋
+item.spawn_egg.entity.m:toxified_warden.name=§a剧毒守卫者§r 刷怪蛋
+entity.m:toxified_warden.name=§a剧毒守卫者§r
+
+item.spawn_egg.entity.m:toxified_zorden.name=§a剧毒佐尔登§r 刷怪蛋
+entity.m:toxified_zorden.name=§a剧毒佐尔登§r
+
+item.spawn_egg.entity.m:juggernaut_morden.name=§a重装莫尔登§r 刷怪蛋
+entity.m:juggernaut_morden.name=§a重装莫尔登§r
+
+item.spawn_egg.entity.m:juggernaut_sorden.name=§a重装索尔登§r 刷怪蛋
+entity.m:juggernaut_sorden.name=§a重装索尔登§r
+
+item.spawn_egg.entity.m:persevere_warden.name=§a坚毅守卫者§r 刷怪蛋
+entity.m:persevere_warden.name=§a坚毅守卫者§r
+
+item.spawn_egg.entity.m:persevere_zorden.name=§a坚毅佐尔登§r 刷怪蛋
+entity.m:persevere_zorden.name=§a坚毅佐尔登§r
+
+item.spawn_egg.entity.m:persevere_morden.name=§a坚毅莫尔登§r 刷怪蛋
+entity.m:persevere_morden.name=§a坚毅莫尔登§r
+
+item.spawn_egg.entity.m:persevere_sorden.name=§a坚毅索尔登§r 刷怪蛋
+entity.m:persevere_sorden.name=§a坚毅索尔登§r
+
+item.spawn_egg.entity.m:riot_warden.name=§a暴动守卫者§r 刷怪蛋
+entity.m:riot_warden.name=§a暴动守卫者§r
+
+//创造模式物品栏分组
+itemGroup.name.hide_block=隐藏方块
+item.ghjds:magic_dirt=§e神秘的附魔土块
+tile.ghjds:sanction_box.name=§c制裁箱子

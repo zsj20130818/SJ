@@ -1,0 +1,108 @@
+[21:35:39] [suc] 等待日志连接
+[21:36:33] [suc] 日志连接成功
+[2026-10-24 21:36:33,707] [INFO][Developer] Mobile logger started 192.168.0.110 11092
+[2026-10-24 21:36:33,730] [INFO][Developer] start readStudio
+[2026-10-24 21:36:54,601] [ERROR][Engine] block_definitions | C:/Users/admin/AppData/Roaming/MinecraftPE_Netease/games/com.netease/behavior_packs/behavior_pack_MMmX7jbm | netease_blocks/ghjds_sanction_box.json | upgrade netease_blocks/ghjds_sanction_box.json | minecraft:block | components | Component minecraft:block_light_emission is missing required field emission, component will be discarded
+
+[2026-10-24 21:36:58,812] [INFO] SERVER addon list: [{"path":"C:/Users/admin/AppData/Roaming/MinecraftPE_Netease/games/com.netease/behavior_packs/behavior_pack_MMmX7jbm","uuid":"7a4b3c2d-1e0f-4a9b-8c7d-6e5f4a3b2c1d","version":"1.0.0"}]
+
+[2026-10-24 21:36:59,043] [INFO] sendWinPlayWorldDCLog: engine_launch gameserver_connect 0 start
+[2026-10-24 21:36:59,111] [INFO] sendWinPlayWorldDCLog: engine_launch gameserver_connect 0 done
+[2026-10-24 21:36:59,680] [INFO] sendWinPlayWorldDCLog: engine_launch resource_pack 0 start
+[2026-10-24 21:36:59,737] [INFO] sendWinPlayWorldDCLog: engine_launch client_connect 0 
+[2026-10-24 21:37:01,691] [INFO] sendWinPlayWorldDCLog: engine_launch resource_pack 0 done
+[2026-10-24 21:37:01,911] [INFO] sendWinPlayWorldDCLog: engine_launch world_generation 0 start
+[2026-10-24 21:37:02,196] [INFO][Developer] Starting mobile logger
+[2026-10-24 21:37:02,983] [INFO] CLIENT addon list: [{"path":"C:/Users/admin/AppData/Roaming/MinecraftPE_Netease/games/com.netease/behavior_packs/behavior_pack_MMmX7jbm","uuid":"7a4b3c2d-1e0f-4a9b-8c7d-6e5f4a3b2c1d","version":"1.0.0"},{"path":"C:/Users/admin/AppData/Roaming/MinecraftPE_Netease/games/com.netease/resource_packs/resource_pack_VNbYZdx7","uuid":"1f2e3d4c-5b6a-4f7e-8d9c-0b1a2f3e4d5c","version":"1.0.0"}]
+
+[2026-10-24 21:37:03,555] [INFO][Developer] get_cls_by_clsstr client.ui.settingsScreenProxy SettingsScreenProxy
+[2026-10-24 21:37:03,558] [INFO][Developer] get_cls
+[2026-10-24 21:37:03,558] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:03,602] [INFO][Developer] get_cls_by_clsstr client.neteaseChatNew.ui.neteaseChatProxy NeteaseChatOldProxy
+[2026-10-24 21:37:03,608] [INFO][Developer] get_cls
+[2026-10-24 21:37:03,608] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:03,608] [INFO][Developer] get_cls_by_clsstr client.neteaseChatNew.ui.neteaseCmdBlockProxy NeteaseCmdBlockOldProxy
+[2026-10-24 21:37:03,608] [INFO][Developer] get_cls
+[2026-10-24 21:37:03,608] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:03,608] [INFO][Developer] get_cls_by_clsstr client.ui.reportScreenProxy ReportScreenOldProxy
+[2026-10-24 21:37:03,609] [INFO][Developer] get_cls
+[2026-10-24 21:37:03,609] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:03,614] [INFO][Developer] [GeneralSetting] _hasCocos=False
+[2026-10-24 21:37:03,614] [INFO][Developer] get_cls_by_clsstr mod.client.plugin.generalSetting.ui.PauseScreenProxy PauseScreenProxy
+[2026-10-24 21:37:03,615] [INFO][Developer] get_cls
+[2026-10-24 21:37:03,615] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:03,615] [INFO][Developer] [GeneralSetting] _RegisterProxy finished
+[2026-10-24 21:37:03,686] [ERROR][Engine] get_world_record: None
+[2026-10-24 21:37:03,686] [ERROR][Engine] set custom switch error 'NoneType' object has no attribute 'global_chat_mgr'
+[2026-10-24 21:37:03,742] [ERROR][Engine] get_world_record: None
+[21:37:03] ecs_framework create entity   -4294967295
+[21:37:03] ecs_framework entity dict  
+[2026-10-24 21:37:03,805] [INFO][Developer] mod behavior paths =  ['C:/Users/admin/AppData/Roaming/MinecraftPE_Netease/games/com.netease/behavior_packs/behavior_pack_MMmX7jbm']
+[2026-10-24 21:37:03,806] [INFO][Developer] in CreateBooks: behavior 'C:/Users/admin/AppData/Roaming/MinecraftPE_Netease/games/com.netease/behavior_packs/behavior_pack_MMmX7jbm' has no foldName 'customBooks' or path not valid, go on next behavior
+[2026-10-24 21:37:03,878] [ERROR][Engine] get_world_record: None
+[21:37:05] ecs_framework create entity   -4294967295
+[21:37:05] ecs_framework entity dict  
+[21:37:15] ecs_framework AddComponent -4294967295 
+[21:37:15] ecs_framework sys onAddComp EHorseAnimSystem
+[21:37:15] ecs_framework sys onAddComp ERideAnimSystem
+[21:37:15] ecs_framework sys onAddComp 
+[21:37:15] ecs_framework sys onAddComp EHorseAnimPerspSystem
+[2026-10-24 21:37:18,996] [INFO] sendWinPlayWorldDCLog: engine_launch world_generation 0 done
+[2026-10-24 21:37:19,016] [INFO] sendWinPlayWorldDCLog: engine_launch split_screen 0 start
+[2026-10-24 21:37:19,026] [INFO] sendWinPlayWorldDCLog: engine_launch split_screen 0 done
+[2026-10-24 21:37:19,043] [INFO] sendWinPlayWorldDCLog: engine_launch resource_load 0 start
+[2026-10-24 21:37:23,280] [INFO] sendWinPlayWorldDCLog: engine_launch resource_load 0 done
+[2026-10-24 21:37:23,296] [INFO] sendWinPlayWorldDCLog: engine_launch user_appearance 0 start
+[2026-10-24 21:37:23,298] [INFO] sendWinPlayWorldDCLog: engine_launch user_appearance 0 done
+[2026-10-24 21:37:23,315] [INFO] sendWinPlayWorldDCLog: engine_launch cache_screen 0 start
+[2026-10-24 21:37:23,329] [INFO] sendWinPlayWorldDCLog: engine_launch cache_screen 0 done
+[2026-10-24 21:37:23,368] [INFO] sendWinPlayWorldDCLog: engine_launch simple_call 0 start
+[2026-10-24 21:37:23,371] [INFO] sendWinPlayWorldDCLog: engine_launch simple_call 0 done
+[2026-10-24 21:37:23,388] [INFO] sendWinPlayWorldDCLog: engine_launch game_screen 0 start
+[2026-10-24 21:37:23,392] [INFO] sendWinPlayWorldDCLog: engine_launch game_screen 0 done
+[2026-10-24 21:37:23,408] [INFO] sendWinPlayWorldDCLog: engine_launch game_screen 0 done
+[2026-10-24 21:37:23,730] [INFO][Developer] uimanager init
+[2026-10-24 21:37:23,746] [INFO][Developer] get_cls_by_clsstr client.ui.for_button_cancel PlayGame
+[2026-10-24 21:37:23,756] [INFO][Developer] get_cls
+[2026-10-24 21:37:23,756] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:23,792] [INFO][Developer] get_cls
+[2026-10-24 21:37:23,792] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:23,796] [INFO][Developer] get_cls_by_clsstr client.ui.skinTransformButton SkinTransformButton
+[2026-10-24 21:37:23,798] [INFO][Developer] get_cls
+[2026-10-24 21:37:23,799] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:23,822] [INFO][Developer] get_cls_by_clsstr mod.client.ui.pet.miniMapUIControl ParternerMiniMapScreen
+[2026-10-24 21:37:23,826] [INFO][Developer] get_cls
+[2026-10-24 21:37:23,826] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:23,831] [INFO][Developer] start to do a gray request in parterner
+[2026-10-24 21:37:23,831] [INFO][Developer] get_cls_by_clsstr mod.client.ui.petHudUI PetHudUI
+[2026-10-24 21:37:23,832] [INFO][Developer] get_cls
+[2026-10-24 21:37:23,832] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:23,846] [INFO][Developer] get_cls_by_clsstr mod.client.ui.petMainUI PetMainUI
+[2026-10-24 21:37:23,848] [INFO][Developer] get_cls
+[2026-10-24 21:37:23,848] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:23,858] [INFO][Developer] get_cls_by_clsstr mod.client.ui.petEatUI PetEatUI
+[2026-10-24 21:37:23,858] [INFO][Developer] get_cls
+[2026-10-24 21:37:23,858] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:23,865] [INFO][Developer] get_cls_by_clsstr mod.client.ui.multiHorseUI MultiHorseUI
+[2026-10-24 21:37:23,865] [INFO][Developer] get_cls
+[2026-10-24 21:37:23,865] [INFO][Developer] get_cls success!!!
+[21:37:23] [multiHorseUi]  [Create]  self.mContainerPos:  None
+[2026-10-24 21:37:23,877] [INFO][Developer] get_cls_by_clsstr client.ui.PopWindow PopWindow
+[2026-10-24 21:37:23,878] [INFO][Developer] get_cls
+[2026-10-24 21:37:23,878] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:37:23,881] [INFO][Developer] [GeneralSetting] _RegisterUI finished
+[2026-10-24 21:37:28,730] [INFO][Developer] do not load mount skin
+[2026-10-24 21:38:24,736] [INFO][Developer] get_cls_by_clsstr mod.client.plugin.generalSetting.ui.PauseScreenProxy PauseScreenProxy
+[2026-10-24 21:38:24,736] [INFO][Developer] get_cls
+[2026-10-24 21:38:24,736] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:38:24,737] [INFO][Developer] PauseScreenProxy Create
+[2026-10-24 21:38:37,253] [INFO][Developer] do not load mount skin
+[2026-10-24 21:38:50,051] [INFO][Developer] get_cls_by_clsstr mod.client.plugin.generalSetting.ui.PauseScreenProxy PauseScreenProxy
+[2026-10-24 21:38:50,051] [INFO][Developer] get_cls
+[2026-10-24 21:38:50,052] [INFO][Developer] get_cls success!!!
+[2026-10-24 21:38:50,052] [INFO][Developer] PauseScreenProxy Create
+[21:38:51] ecs_framework clear all
+[21:38:51] OperationHistoryFactory Reset
+[2026-10-24 21:38:51,888] [INFO][Developer] GetPostToWebHeadUrl apigw_url is empty
+[21:38:51] ecs_framework clear all
+[21:39:11] [Error] 断开日志连接

@@ -1,0 +1,7 @@
+{
+  "format_version": [1, 1, 0],
+  "ghjds:sanction_box": {
+    "textures": "ghjds:sanction_box",
+    "sound": "stone"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "ghjds:dirt_to_magic_dirt"
+    },
+    "tags": ["furnace"],
+    "input": "minecraft:dirt",
+    "output": "ghjds:magic_dirt"
+  }
+}

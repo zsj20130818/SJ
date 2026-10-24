@@ -1,0 +1,19 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "ghjds:sanction_box",
+      "register_to_creative_menu": true,
+      "category": "nature"
+    },
+    "components": {
+      "minecraft:destroy_time": { "value": 0.0 },
+      "minecraft:block_light_absorption": { "value": 15 },
+      "minecraft:block_light_emission": { "value": 0.0 },
+      "netease:aabb": {
+        "collision": { "min": [0, 0, 0], "max": [1, 1, 1] },
+        "clip": { "min": [0, 0, 0], "max": [1, 1, 1] }
+      }
+    }
+  }
+}
